@@ -15,4 +15,4 @@
 
 ### Contacto
 
-- [Gmail](jhangmez.pe@gmail.com)
+- [Gmail](mailto:jhangmez.pe@gmail.com)
